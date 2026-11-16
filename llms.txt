@@ -27,6 +27,9 @@
 - [Experienced Web Design Warrnambool](https://local-business-guides.github.io/top-notch-i-t-warrnambool/experienced-web-design-warrnambool/): Experienced Web Design Warrnambool gives your business a clear, mobile-friendly site. Discuss your needs with Top Notch I.T in Warrnambool today.
 - [Best Web Design Warrnambool near Me](https://local-business-guides.github.io/top-notch-i-t-warrnambool/best-web-design-warrnambool-near-me/): Best Web Design Warrnambool near Me can help customers understand your offer. Talk through your website plans with Top Notch I.T in Warrnambool today.
 
+## Newsroom
+- [Top Notch I.T Shares Web Design Resources for Warrnambool Businesses](https://local-business-guides.github.io/top-notch-i-t-warrnambool/news/2026-11-16-top-notch-i-t-shares-web-design-resources-for/): Top Notch I.T has released a Warrnambool web design guide, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-16)
+
 ## Pages
 - [Web Design in Warrnambool, Victoria](https://local-business-guides.github.io/top-notch-i-t-warrnambool/): Get a clear, mobile-friendly website that helps your Warrnambool business explain its services and invite enquiries. Call +61418926983.
 - [About Top Notch I.T | Warrnambool](https://local-business-guides.github.io/top-notch-i-t-warrnambool/about/): About Top Notch I.T, Warrnambool.
@@ -34,4 +37,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/top-notch-i-t-warrnambool/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/top-notch-i-t-warrnambool/news/rss.xml)
 - [Main resource site](https://top-notch-it-warrnambool.localwebsites.chatgpt.site)
